@@ -110,16 +110,5 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ---
 
-## 🙌 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 <p align="center">Created and Managed by VinayXbhatt27</p>
