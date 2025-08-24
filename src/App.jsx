@@ -1,7 +1,7 @@
 import {TodoForm} from "./Components/TodoForm/TodoForm";
 import { TodoList } from "./Components/TodoList/TodoList";
 import {TodoFilter}  from "./Components/TodoFilters/TodoFilter";
-import {Alert} from "./Components/Alert/alert";
+import {Alert} from "./Components/Alert/Alert";
 import {Loader} from "./Components/Loader/Loader";
 import styles from "./App.module.css";
 import { useTodos } from "./hooks/todo"
